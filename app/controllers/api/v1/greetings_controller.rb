@@ -3,7 +3,7 @@ module Api
     class GreetingsController < ApplicationController
       def index
         greeting = Greeting.all.sample.slice(:text)
-        render json: {greeting: greeting}
+        render json: { greeting: }
       end
     end
   end
