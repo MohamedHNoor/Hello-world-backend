@@ -33,7 +33,7 @@
 
 # 📖 Hello-world-backend <a name="about-project"></a>
 
-**Hello-world-backend** is a simple Rails API that create a table for storing messages and create 5 different greetings.
+**Hello-world-backend** is a simple Rails API that create a table for storing messages and create 5 different greetings. The API is consumed by [Hello-React-Front-end](https://github.com/MohamedHNoor/hello-react-front-end/tree/feature-front-end).
 
 ## 🛠 Built With <a name="built-with"></a>
 
